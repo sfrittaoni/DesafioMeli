@@ -1,0 +1,403 @@
+,id,name,total_items_in_this_category,mother_id,mother_name
+0,MLA4711,Acc. para Motos y Cuatriciclos,128050,MLA5725,Accesorios para Vehículos
+1,MLA417044,Acc. y Repuestos Náuticos,18391,MLA5725,Accesorios para Vehículos
+2,MLA6520,Accesorios de Auto y Camioneta,274099,MLA5725,Accesorios para Vehículos
+3,MLA86360,Accesorios para Camiones,14861,MLA5725,Accesorios para Vehículos
+4,MLA3381,Audio para Vehículos,41386,MLA5725,Accesorios para Vehículos
+5,MLA455216,Dispositivos para TelePASE,0,MLA5725,Accesorios para Vehículos
+6,MLA4610,GNC,3056,MLA5725,Accesorios para Vehículos
+7,MLA2227,Herramientas,42623,MLA5725,Accesorios para Vehículos
+8,MLA86838,Limpieza de Vehículos,34810,MLA5725,Accesorios para Vehículos
+9,MLA6537,Llantas,27170,MLA5725,Accesorios para Vehículos
+10,MLA8531,Navegadores GPS,4585,MLA5725,Accesorios para Vehículos
+11,MLA400928,Neumáticos,106468,MLA5725,Accesorios para Vehículos
+12,MLA402999,Performance,13823,MLA5725,Accesorios para Vehículos
+13,MLA1747,Repuestos Autos y Camionetas,7377302,MLA5725,Accesorios para Vehículos
+14,MLA419936,Repuestos de Línea Pesada,49375,MLA5725,Accesorios para Vehículos
+15,MLA1771,Repuestos Motos y Cuatriciclos,572083,MLA5725,Accesorios para Vehículos
+16,MLA86080,Seguridad Vehicular,37887,MLA5725,Accesorios para Vehículos
+17,MLA377674,Servicio Programado,19302,MLA5725,Accesorios para Vehículos
+18,MLA4589,Tuning,95613,MLA5725,Accesorios para Vehículos
+19,MLA6177,Otros,69177,MLA5725,Accesorios para Vehículos
+20,MLA442346,Animales,87,MLA1512,Agro
+21,MLA442344,Generadores de Energía,359,MLA1512,Agro
+22,MLA454448,Infraestructura Rural,1976,MLA1512,Agro
+23,MLA442343,Insumos Agrícolas,1917,MLA1512,Agro
+24,MLA407816,Insumos Ganaderos,434,MLA1512,Agro
+25,MLA417282,Máquinas y Herramientas,1500,MLA1512,Agro
+26,MLA442351,Repuestos Maquinaria Agrícola,2028,MLA1512,Agro
+27,MLA404085,Otros,1685,MLA1512,Agro
+28,MLA178700,Bebidas,84982,MLA1403,Alimentos y Bebidas
+29,MLA1423,Comestibles,120474,MLA1403,Alimentos y Bebidas
+30,MLA410883,Comida Preparada y Catering,14993,MLA1403,Alimentos y Bebidas
+31,MLA455292,Congelados,209,MLA1403,Alimentos y Bebidas
+32,MLA194324,Frescos,7014,MLA1403,Alimentos y Bebidas
+33,MLA1417,Otros,5293,MLA1403,Alimentos y Bebidas
+34,MLA1100,Aves,4510,MLA1071,Animales y Mascotas
+35,MLA1117,Caballos,2732,MLA1071,Animales y Mascotas
+36,MLA6573,Conejos,1186,MLA1071,Animales y Mascotas
+37,MLA1081,Gatos,21962,MLA1071,Animales y Mascotas
+38,MLA429311,Insectos,184,MLA1071,Animales y Mascotas
+39,MLA1091,Peces,21691,MLA1071,Animales y Mascotas
+40,MLA1072,Perros,114973,MLA1071,Animales y Mascotas
+41,MLA1111,Reptiles y Anfibios,694,MLA1071,Animales y Mascotas
+42,MLA1105,Roedores,2810,MLA1071,Animales y Mascotas
+43,MLA1126,Otros,3233,MLA1071,Animales y Mascotas
+44,MLA436789,Antigüedades,135396,MLA1367,Antigüedades y Colecciones
+45,MLA31770,Coleccionables de Deportes,4817,MLA1367,Antigüedades y Colecciones
+46,MLA2662,Esculturas,10821,MLA1367,Antigüedades y Colecciones
+47,MLA1861,Filatelia,82119,MLA1367,Antigüedades y Colecciones
+48,MLA1805,Militaría y Afines,26698,MLA1367,Antigüedades y Colecciones
+49,MLA1806,Monedas y Billetes,122662,MLA1367,Antigüedades y Colecciones
+50,MLA3475,Posters,38159,MLA1367,Antigüedades y Colecciones
+51,MLA1383,Otros,106270,MLA1367,Antigüedades y Colecciones
+52,MLA34263,Arte,44950,MLA1368,"Arte, Librería y Mercería"
+53,MLA381266,Espejos Venecitas,173,MLA1368,"Arte, Librería y Mercería"
+54,MLA436793,Insumos para Hacer Velas,967,MLA1368,"Arte, Librería y Mercería"
+55,MLA5982,Librería,263145,MLA1368,"Arte, Librería y Mercería"
+56,MLA10934,Mercería,63534,MLA1368,"Arte, Librería y Mercería"
+57,MLA432923,Moldes para Jabones,752,MLA1368,"Arte, Librería y Mercería"
+58,MLA437077,Piezas para Llaveros,199,MLA1368,"Arte, Librería y Mercería"
+59,MLA34294,Otros,49498,MLA1368,"Arte, Librería y Mercería"
+60,MLA93412,Autos Chocados y Averiados,1169,MLA1743,"Autos, Motos y Otros"
+61,MLA1745,Autos de Colección,2690,MLA1743,"Autos, Motos y Otros"
+62,MLA1744,Autos y Camionetas,117327,MLA1743,"Autos, Motos y Otros"
+63,MLA58254,Camiones,2906,MLA1743,"Autos, Motos y Otros"
+64,MLA51547,Colectivos,582,MLA1743,"Autos, Motos y Otros"
+65,MLA7312,Maquinaria Agrícola,2842,MLA1743,"Autos, Motos y Otros"
+66,MLA405183,Maquinaria Vial,2354,MLA1743,"Autos, Motos y Otros"
+67,MLA80579,Motorhomes,994,MLA1743,"Autos, Motos y Otros"
+68,MLA1763,Motos,35950,MLA1743,"Autos, Motos y Otros"
+69,MLA1785,Náutica,6361,MLA1743,"Autos, Motos y Otros"
+70,MLA1784,Planes de Ahorro,1491,MLA1743,"Autos, Motos y Otros"
+71,MLA93430,Semirremolques,880,MLA1743,"Autos, Motos y Otros"
+72,MLA1907,Otros Vehículos,10607,MLA1743,"Autos, Motos y Otros"
+73,MLA8814,Andadores y Vehículos de Bebés,6944,MLA1384,Bebés
+74,MLA5702,Artículos de Bebés para Baño,5815,MLA1384,Bebés
+75,MLA417864,Artículos de Maternidad,7885,MLA1384,Bebés
+76,MLA417853,Chupetes y Mordillos,5242,MLA1384,Bebés
+77,MLA417851,Comida para Bebés,5618,MLA1384,Bebés
+78,MLA8322,Corralitos,672,MLA1384,Bebés
+79,MLA5362,Cuarto del Bebé,26435,MLA1384,Bebés
+80,MLA409456,Higiene y Cuidado del Bebé,12031,MLA1384,Bebés
+81,MLA1392,Juegos y Juguetes para Bebés,38560,MLA1384,Bebés
+82,MLA5360,Lactancia y Alimentación,22322,MLA1384,Bebés
+83,MLA418189,Paseo del Bebé,32176,MLA1384,Bebés
+84,MLA1396,Ropa y Calzado para Bebés,82433,MLA1384,Bebés
+85,MLA417887,Salud del Bebé,1244,MLA1384,Bebés
+86,MLA1390,Seguridad para Bebés,5709,MLA1384,Bebés
+87,MLA1889,Otros,6875,MLA1384,Bebés
+88,MLA431642,Artículos de Peluquería,22647,MLA1246,Belleza y Cuidado Personal
+89,MLA417575,Barbería,5296,MLA1246,Belleza y Cuidado Personal
+90,MLA1253,Cuidado de la Piel,93291,MLA1246,Belleza y Cuidado Personal
+91,MLA1263,Cuidado del Cabello,92441,MLA1246,Belleza y Cuidado Personal
+92,MLA43673,Depilación,8828,MLA1246,Belleza y Cuidado Personal
+93,MLA409558,Electrodomésticos de Belleza,29523,MLA1246,Belleza y Cuidado Personal
+94,MLA431646,Farmacia,809,MLA1246,Belleza y Cuidado Personal
+95,MLA393366,Higiene Personal,33690,MLA1246,Belleza y Cuidado Personal
+96,MLA29884,Manicuría y Pedicuría,49927,MLA1246,Belleza y Cuidado Personal
+97,MLA1248,Maquillaje,62121,MLA1246,Belleza y Cuidado Personal
+98,MLA454712,Perfumes y Fragancias,75993,MLA1246,Belleza y Cuidado Personal
+99,MLA417770,Tratamientos de Belleza,12502,MLA1246,Belleza y Cuidado Personal
+100,MLA1275,Otros,4767,MLA1246,Belleza y Cuidado Personal
+101,MLA1049,Accesorios para Cámaras,43605,MLA1039,Cámaras y Accesorios
+102,MLA9808,Álbumes y Portarretratos,3894,MLA1039,Cámaras y Accesorios
+103,MLA5849,Cables,3127,MLA1039,Cámaras y Accesorios
+104,MLA430361,Cámaras,20055,MLA1039,Cámaras y Accesorios
+105,MLA430403,Drones y Accesorios,59,MLA1039,Cámaras y Accesorios
+106,MLA392132,Filmadoras y Cámaras de Acción,4952,MLA1039,Cámaras y Accesorios
+107,MLA4708,Instrumentos Ópticos,6403,MLA1039,Cámaras y Accesorios
+108,MLA59376,Lentes y Filtros,11844,MLA1039,Cámaras y Accesorios
+109,MLA430989,Repuestos para Cámaras,402,MLA1039,Cámaras y Accesorios
+110,MLA10372,Revelado y Laboratorio,1004,MLA1039,Cámaras y Accesorios
+111,MLA1914,Otros,2095,MLA1039,Cámaras y Accesorios
+112,MLA3502,Accesorios para Celulares,244356,MLA1051,Celulares y Teléfonos
+113,MLA1055,Celulares y Smartphones,68626,MLA1051,Celulares y Teléfonos
+114,MLA1058,Handies y Radiofrecuencia,9448,MLA1051,Celulares y Teléfonos
+115,MLA401278,Lentes de Realidad Virtual,1329,MLA1051,Celulares y Teléfonos
+116,MLA3813,Repuestos de Celulares,56787,MLA1051,Celulares y Teléfonos
+117,MLA417704,Smartwatches y Accesorios,12426,MLA1051,Celulares y Teléfonos
+118,MLA10616,Tarifadores y Cabinas,123,MLA1051,Celulares y Teléfonos
+119,MLA1053,Telefonía Fija e Inalámbrica,14332,MLA1051,Celulares y Teléfonos
+120,MLA5237,Telefonía IP,2368,MLA1051,Celulares y Teléfonos
+121,MLA1915,Otros,2872,MLA1051,Celulares y Teléfonos
+122,MLA416199,Accesorios de Antiestática,161,MLA1648,Computación
+123,MLA447778,Accesorios para PC Gaming,15181,MLA1648,Computación
+124,MLA430598,Almacenamiento,32738,MLA1648,Computación
+125,MLA430918,Cables y Hubs USB,10849,MLA1648,Computación
+126,MLA3699,"Cajas, Sobres y Porta CDs",1398,MLA1648,Computación
+127,MLA3794,Componentes de PC,59736,MLA1648,Computación
+128,MLA1700,Conectividad y Redes,57577,MLA1648,Computación
+129,MLA1718,Estabilizadores y UPS,7474,MLA1648,Computación
+130,MLA2141,Impresión,128076,MLA1648,Computación
+131,MLA430687,Laptops y Accesorios,185769,MLA1648,Computación
+132,MLA1660,Lectores y Scanners,7713,MLA1648,Computación
+133,MLA36845,Limpieza y Cuidado de PCs,3544,MLA1648,Computación
+134,MLA1656,Monitores y Accesorios,11984,MLA1648,Computación
+135,MLA1651,Palms y Handhelds,1547,MLA1648,Computación
+136,MLA430637,PC de Escritorio,19231,MLA1648,Computación
+137,MLA454379,Periféricos de PC,56577,MLA1648,Computación
+138,MLA5017,Proyectores y Pantallas,571,MLA1648,Computación
+139,MLA1723,Software,12074,MLA1648,Computación
+140,MLA400950,Tablets y Accesorios,42840,MLA1648,Computación
+141,MLA1912,Otros,7077,MLA1648,Computación
+142,MLA438578,Accesorios para Consolas,29364,MLA1144,Consolas y Videojuegos
+143,MLA439527,Accesorios para PC Gaming,829,MLA1144,Consolas y Videojuegos
+144,MLA438566,Consolas,28419,MLA1144,Consolas y Videojuegos
+145,MLA8232,Flippers y Arcade,3470,MLA1144,Consolas y Videojuegos
+146,MLA438579,Repuestos para Consolas,1104,MLA1144,Consolas y Videojuegos
+147,MLA373840,Videojuegos,93244,MLA1144,Consolas y Videojuegos
+148,MLA438759,Otros,2398,MLA1144,Consolas y Videojuegos
+149,MLA2480,Artes Marciales y Boxeo,12448,MLA1276,Deportes y Fitness
+150,MLA416831,Bádminton,119,MLA1276,Deportes y Fitness
+151,MLA1309,Básquet,7563,MLA1276,Deportes y Fitness
+152,MLA1279,Buceo,4572,MLA1276,Deportes y Fitness
+153,MLA1362,"Camping, Caza y Pesca",146076,MLA1276,Deportes y Fitness
+154,MLA438233,"Canoas, Kayaks e Inflables",4397,MLA1276,Deportes y Fitness
+155,MLA1292,Ciclismo,91477,MLA1276,Deportes y Fitness
+156,MLA1349,Equitación y Polo,5347,MLA1276,Deportes y Fitness
+157,MLA417504,Esgrima,89,MLA1276,Deportes y Fitness
+158,MLA1297,Esqui y Snowboard,12315,MLA1276,Deportes y Fitness
+159,MLA1338,Fitness y Musculación,60355,MLA1276,Deportes y Fitness
+160,MLA1285,Fútbol,95348,MLA1276,Deportes y Fitness
+161,MLA1302,Fútbol Americano,1352,MLA1276,Deportes y Fitness
+162,MLA1342,Golf,7928,MLA1276,Deportes y Fitness
+163,MLA37856,Handball,864,MLA1276,Deportes y Fitness
+164,MLA3732,Hockey,8867,MLA1276,Deportes y Fitness
+165,MLA4697,Juegos de Salón,1353,MLA1276,Deportes y Fitness
+166,MLA4682,Kitesurf,1253,MLA1276,Deportes y Fitness
+167,MLA410723,Monopatines y Scooters,1921,MLA1276,Deportes y Fitness
+168,MLA47786,Montañismo y Trekking,12137,MLA1276,Deportes y Fitness
+169,MLA1278,Natación,10102,MLA1276,Deportes y Fitness
+170,MLA4218,Paintball,1589,MLA1276,Deportes y Fitness
+171,MLA432691,Parapente,204,MLA1276,Deportes y Fitness
+172,MLA1293,"Patín, Gimnasia y Danza",18357,MLA1276,Deportes y Fitness
+173,MLA8959,Pilates y Yoga,1014,MLA1276,Deportes y Fitness
+174,MLA3723,Pulsómetros y Cronómetros,2128,MLA1276,Deportes y Fitness
+175,MLA417397,Ropa Deportiva,6684,MLA1276,Deportes y Fitness
+176,MLA3731,Rugby,4558,MLA1276,Deportes y Fitness
+177,MLA1295,Skateboard y Sandboard,6705,MLA1276,Deportes y Fitness
+178,MLA417742,Slackline,56,MLA1276,Deportes y Fitness
+179,MLA18369,Softball y Beisbol,1634,MLA1276,Deportes y Fitness
+180,MLA438178,Suplementos y Shakers,53232,MLA1276,Deportes y Fitness
+181,MLA1281,Surf y Bodyboard,2152,MLA1276,Deportes y Fitness
+182,MLA1322,"Tenis, Padel y Squash ",15125,MLA1276,Deportes y Fitness
+183,MLA440904,Tiro Deportivo,12734,MLA1276,Deportes y Fitness
+184,MLA1333,Voley,1842,MLA1276,Deportes y Fitness
+185,MLA1978,Wakeboard y Esqui Acuático,759,MLA1276,Deportes y Fitness
+186,MLA1282,Windsurf,864,MLA1276,Deportes y Fitness
+187,MLA3724,Zapatillas,11289,MLA1276,Deportes y Fitness
+188,MLA1358,Otros,12469,MLA1276,Deportes y Fitness
+189,MLA6355,Artefactos de Cuidado Personal,1891,MLA5726,Electrodomésticos y Aires Ac.
+190,MLA385177,Climatización,81482,MLA5726,Electrodomésticos y Aires Ac.
+191,MLA1618,Cocción,38875,MLA5726,Electrodomésticos y Aires Ac.
+192,MLA117258,Dispensadores y Purificadores,8176,MLA5726,Electrodomésticos y Aires Ac.
+193,MLA438282,Lavado,42612,MLA5726,Electrodomésticos y Aires Ac.
+194,MLA438284,Pequeños Electrodomésticos,81497,MLA5726,Electrodomésticos y Aires Ac.
+195,MLA1576,Refrigeración,26218,MLA5726,Electrodomésticos y Aires Ac.
+196,MLA5977,Otros,1872,MLA5726,Electrodomésticos y Aires Ac.
+197,MLA3690,Accesorios para Audio y Video,19374,MLA1000,"Electrónica, Audio y Video"
+198,MLA431414,Accesorios para TV,14817,MLA1000,"Electrónica, Audio y Video"
+199,MLA409810,Audio,179027,MLA1000,"Electrónica, Audio y Video"
+200,MLA5054,Cables,25799,MLA1000,"Electrónica, Audio y Video"
+201,MLA11830,Componentes Electrónicos,160985,MLA1000,"Electrónica, Audio y Video"
+202,MLA4632,Controles Remotos,13730,MLA1000,"Electrónica, Audio y Video"
+203,MLA352294,Drones y Accesorios,5457,MLA1000,"Electrónica, Audio y Video"
+204,MLA58775,Fundas y Bolsos,1018,MLA1000,"Electrónica, Audio y Video"
+205,MLA352001,Media Streaming,1992,MLA1000,"Electrónica, Audio y Video"
+206,MLA4641,Pilas y Cargadores,24540,MLA1000,"Electrónica, Audio y Video"
+207,MLA4800,Proyectores y Pantallas,7134,MLA1000,"Electrónica, Audio y Video"
+208,MLA322074,Repuestos para TV,49860,MLA1000,"Electrónica, Audio y Video"
+209,MLA1002,Televisores,17708,MLA1000,"Electrónica, Audio y Video"
+210,MLA1015,Video,8320,MLA1000,"Electrónica, Audio y Video"
+211,MLA1070,Otros,5905,MLA1000,"Electrónica, Audio y Video"
+212,MLA10512,Entradas de Colección,1732,MLA2547,Entradas para Eventos
+213,MLA454714,Eventos a Beneficio,8,MLA2547,Entradas para Eventos
+214,MLA10434,Eventos Deportivos,37,MLA2547,Entradas para Eventos
+215,MLA407872,Exposiciones,36,MLA2547,Entradas para Eventos
+216,MLA10405,Recitales,643,MLA2547,Entradas para Eventos
+217,MLA10451,Teatro,69,MLA2547,Entradas para Eventos
+218,MLA10513,Otras Entradas,213,MLA2547,Entradas para Eventos
+219,MLA30088,Aberturas,62791,MLA407134,Herramientas y Construcción
+220,MLA411920,Baños y Sanitarios,61815,MLA407134,Herramientas y Construcción
+221,MLA1500,Construcción,91042,MLA407134,Herramientas y Construcción
+222,MLA2467,Electricidad,152460,MLA407134,Herramientas y Construcción
+223,MLA5226,Herramientas,389829,MLA407134,Herramientas y Construcción
+224,MLA411938,Mobiliario para Cocinas,11977,MLA407134,Herramientas y Construcción
+225,MLA403700,Pinturería,58239,MLA407134,Herramientas y Construcción
+226,MLA14548,Pisos y Revestimientos,60238,MLA407134,Herramientas y Construcción
+227,MLA435273,Plomería,61117,MLA407134,Herramientas y Construcción
+228,MLA407135,Otros,6930,MLA407134,Herramientas y Construcción
+229,MLA1631,Adornos y Decoración del Hogar,458138,MLA1574,"Hogar, Muebles y Jardín"
+230,MLA1613,Baños,61409,MLA1574,"Hogar, Muebles y Jardín"
+231,MLA1592,Bazar y Cocina,534413,MLA1574,"Hogar, Muebles y Jardín"
+232,MLA1608,"Camas, Colchones y Accesorios",41937,MLA1574,"Hogar, Muebles y Jardín"
+233,MLA436069,Cuidado del Hogar y Lavandería,49877,MLA1574,"Hogar, Muebles y Jardín"
+234,MLA1582,Iluminación para el Hogar,158660,MLA1574,"Hogar, Muebles y Jardín"
+235,MLA1621,Jardin y Aire Libre,231633,MLA1574,"Hogar, Muebles y Jardín"
+236,MLA436380,Muebles para el Hogar,322349,MLA1574,"Hogar, Muebles y Jardín"
+237,MLA436414,Organización para el Hogar,18793,MLA1574,"Hogar, Muebles y Jardín"
+238,MLA4624,Seguridad para el Hogar,65595,MLA1574,"Hogar, Muebles y Jardín"
+239,MLA436246,Textiles de Hogar y Decoración,101752,MLA1574,"Hogar, Muebles y Jardín"
+240,MLA1902,Otros,15502,MLA1574,"Hogar, Muebles y Jardín"
+241,MLA5284,Arquitectura y Diseño,5842,MLA1499,Industrias y Oficinas
+242,MLA48904,Embalaje y Logística,53054,MLA1499,Industrias y Oficinas
+243,MLA454798,Equipamiento Médico,132,MLA1499,Industrias y Oficinas
+244,MLA5343,Equipamiento para Comercios,37058,MLA1499,Industrias y Oficinas
+245,MLA2102,Equipamiento para Oficinas,20853,MLA1499,Industrias y Oficinas
+246,MLA5182,Gastronomía y Hotelería,38042,MLA1499,Industrias y Oficinas
+247,MLA412676,Gráfica e Impresión,13977,MLA1499,Industrias y Oficinas
+248,MLA454785,Herramientas Industriales,8450,MLA1499,Industrias y Oficinas
+249,MLA5174,Publicidad y Promoción,84530,MLA1499,Industrias y Oficinas
+250,MLA5169,Seguridad Laboral,43747,MLA1499,Industrias y Oficinas
+251,MLA5160,Textil y Calzado,20181,MLA1499,Industrias y Oficinas
+252,MLA12555,Uniformes,2936,MLA1499,Industrias y Oficinas
+253,MLA1893,Otros,10449,MLA1499,Industrias y Oficinas
+254,MLA374730,Camas Náuticas,296,MLA1459,Inmuebles
+255,MLA1496,Campos,6096,MLA1459,Inmuebles
+256,MLA1466,Casas,165593,MLA1459,Inmuebles
+257,MLA50541,Cocheras,9139,MLA1459,Inmuebles
+258,MLA392265,Consultorios,488,MLA1459,Inmuebles
+259,MLA1472,Departamentos,264347,MLA1459,Inmuebles
+260,MLA1475,Depósitos y Galpones,11225,MLA1459,Inmuebles
+261,MLA50545,Fondo de Comercio,3529,MLA1459,Inmuebles
+262,MLA79242,Locales,22103,MLA1459,Inmuebles
+263,MLA50538,Oficinas,16889,MLA1459,Inmuebles
+264,MLA50544,"Parcelas, Nichos y Bóvedas",346,MLA1459,Inmuebles
+265,MLA105179,PH,24052,MLA1459,Inmuebles
+266,MLA50547,Quintas,5595,MLA1459,Inmuebles
+267,MLA1493,Terrenos y Lotes,82065,MLA1459,Inmuebles
+268,MLA50536,Tiempo Compartido,378,MLA1459,Inmuebles
+269,MLA1892,Otros Inmuebles,6699,MLA1459,Inmuebles
+270,MLA3024,Baterías y Percusión,67111,MLA1182,Instrumentos Musicales
+271,MLA435173,Equipos de DJ y Accesorios,4225,MLA1182,Instrumentos Musicales
+272,MLA434917,Estudio de Grabación,1187,MLA1182,Instrumentos Musicales
+273,MLA4611,Instrumentos de Cuerdas,105345,MLA1182,Instrumentos Musicales
+274,MLA3005,Instrumentos de Viento,19494,MLA1182,Instrumentos Musicales
+275,MLA434818,Metrónomos,410,MLA1182,Instrumentos Musicales
+276,MLA434816,Micrófonos y Amplificadores,27453,MLA1182,Instrumentos Musicales
+277,MLA434927,Parlantes y Bafles,2173,MLA1182,Instrumentos Musicales
+278,MLA3360,Partituras y Letras,12540,MLA1182,Instrumentos Musicales
+279,MLA434786,Pedales y Accesorios,27114,MLA1182,Instrumentos Musicales
+280,MLA2100,Teclados y Pianos,21704,MLA1182,Instrumentos Musicales
+281,MLA3014,Otros,1861,MLA1182,Instrumentos Musicales
+282,MLA431676,Exhibidores y Joyeros,3239,MLA3937,Joyas y Relojes
+283,MLA404419,Insumos para Joyería,3506,MLA3937,Joyas y Relojes
+284,MLA1431,Joyas y Bijouterie,203179,MLA3937,Joyas y Relojes
+285,MLA431678,Piedras Preciosas,1766,MLA3937,Joyas y Relojes
+286,MLA437168,Piercings,2561,MLA3937,Joyas y Relojes
+287,MLA431891,Plumas y Lapiceras de Lujo,879,MLA3937,Joyas y Relojes
+288,MLA6750,Pulsómetros y Cronómetros,444,MLA3937,Joyas y Relojes
+289,MLA431677,Relojes,93223,MLA3937,Joyas y Relojes
+290,MLA417301,Repuestos para Relojes,7411,MLA3937,Joyas y Relojes
+291,MLA399230,Smartwatch,769,MLA3937,Joyas y Relojes
+292,MLA3938,Otros,2963,MLA3937,Joyas y Relojes
+293,MLA352344,Armas y Lanzadores de Juguete,9443,MLA1132,Juegos y Juguetes
+294,MLA1157,Bloques y Construcción,20532,MLA1132,Juegos y Juguetes
+295,MLA433060,Casas y Carpas para Niños,4984,MLA1132,Juegos y Juguetes
+296,MLA418284,"Dibujo, Pintura y Manualidades",23049,MLA1132,Juegos y Juguetes
+297,MLA2967,Electrónicos para Niños,7722,MLA1132,Juegos y Juguetes
+298,MLA1831,"Figuritas, Álbumes y Cromos",37632,MLA1132,Juegos y Juguetes
+299,MLA432873,Hobbies,56486,MLA1132,Juegos y Juguetes
+300,MLA11229,Instrumentos Musicales,7164,MLA1132,Juegos y Juguetes
+301,MLA433069,Juegos de Agua y Playa,22629,MLA1132,Juegos y Juguetes
+302,MLA432988,Juegos de Mesa y Cartas,138770,MLA1132,Juegos y Juguetes
+303,MLA1167,Juegos de Plaza y Aire Libre,11674,MLA1132,Juegos y Juguetes
+304,MLA4696,Juegos de Salón,7819,MLA1132,Juegos y Juguetes
+305,MLA432991,Juguetes Antiestrés e Ingenio,8794,MLA1132,Juegos y Juguetes
+306,MLA416865,Juguetes de Bromas,1091,MLA1132,Juegos y Juguetes
+307,MLA432818,Juguetes de Oficios,20117,MLA1132,Juegos y Juguetes
+308,MLA3655,Juguetes para Bebés,19974,MLA1132,Juegos y Juguetes
+309,MLA37615,Mesas y Sillas para Niños,3512,MLA1132,Juegos y Juguetes
+310,MLA432888,Muñecos y Muñecas,218780,MLA1132,Juegos y Juguetes
+311,MLA12087,Patines y Patinetas,1100,MLA1132,Juegos y Juguetes
+312,MLA6558,Peloteros y Castillos,3845,MLA1132,Juegos y Juguetes
+313,MLA1166,Peluches,32110,MLA1132,Juegos y Juguetes
+314,MLA433047,Títeres y Marionetas,2419,MLA1132,Juegos y Juguetes
+315,MLA432871,Vehículos de Juguete,116629,MLA1132,Juegos y Juguetes
+316,MLA6151,Vehículos Montables para Niños,10495,MLA1132,Juegos y Juguetes
+317,MLA1910,Otros,80377,MLA1132,Juegos y Juguetes
+318,MLA433385,Catálogos,3949,MLA3025,"Libros, Revistas y Comics"
+319,MLA3043,Comics e Historietas,96688,MLA3025,"Libros, Revistas y Comics"
+320,MLA412445,Libros,6399902,MLA3025,"Libros, Revistas y Comics"
+321,MLA3044,Manga,24409,MLA3025,"Libros, Revistas y Comics"
+322,MLA1955,Revistas,188228,MLA3025,"Libros, Revistas y Comics"
+323,MLA1227,Otros,900549,MLA3025,"Libros, Revistas y Comics"
+324,MLA445795,Cursos,2609,MLA1168,"Música, Películas y Series"
+325,MLA1174,Música,1115951,MLA1168,"Música, Películas y Series"
+326,MLA13508,Películas,149631,MLA1168,"Música, Películas y Series"
+327,MLA7841,Series de TV,17048,MLA1168,"Música, Películas y Series"
+328,MLA1228,Otros,23560,MLA1168,"Música, Películas y Series"
+329,MLA3114,Accesorios de Moda,154512,MLA1430,Ropa y Accesorios
+330,MLA109276,Bermudas y Shorts,34138,MLA1430,Ropa y Accesorios
+331,MLA417226,Blusas,20896,MLA1430,Ropa y Accesorios
+332,MLA109085,Buzos y Hoodies,37494,MLA1430,Ropa y Accesorios
+333,MLA109026,Calzado,378682,MLA1430,Ropa y Accesorios
+334,MLA95955,Calzas,13947,MLA1430,Ropa y Accesorios
+335,MLA417218,Camisas,44302,MLA1430,Ropa y Accesorios
+336,MLA109096,"Camperas, Tapados y Trenchs",92012,MLA1430,Ropa y Accesorios
+337,MLA109254,Enteritos,7202,MLA1430,Ropa y Accesorios
+338,MLA110761,"Equipaje, Bolsos y Carteras",169176,MLA1430,Ropa y Accesorios
+339,MLA413460,Lotes de Ropa,7716,MLA1430,Ropa y Accesorios
+340,MLA109282,"Pantalones, Jeans y Joggings",81479,MLA1430,Ropa y Accesorios
+341,MLA373771,Polleras,24223,MLA1430,Ropa y Accesorios
+342,MLA109042,"Remeras, Musculosas y Chombas",339627,MLA1430,Ropa y Accesorios
+343,MLA417479,Ropa de Danza y Patinaje,464,MLA1430,Ropa y Accesorios
+344,MLA6839,Ropa Deportiva,42311,MLA1430,Ropa y Accesorios
+345,MLA109278,Ropa Interior y de Dormir,100786,MLA1430,Ropa y Accesorios
+346,MLA1455,Ropa y Calzado para Bebés,9596,MLA1430,Ropa y Accesorios
+347,MLA109081,"Saquitos, Sweaters y Chalecos",54465,MLA1430,Ropa y Accesorios
+348,MLA109089,Trajes,5762,MLA1430,Ropa y Accesorios
+349,MLA109270,Trajes de Baño,30822,MLA1430,Ropa y Accesorios
+350,MLA12554,Uniformes y Ropa de Trabajo,28317,MLA1430,Ropa y Accesorios
+351,MLA373770,Vestidos,69831,MLA1430,Ropa y Accesorios
+352,MLA1911,Otros,17248,MLA1430,Ropa y Accesorios
+353,MLA5395,Cuidado de la Salud,53769,MLA409431,Salud y Equipamiento Médico
+354,MLA6556,Equipamiento Médico,59768,MLA409431,Salud y Equipamiento Médico
+355,MLA29912,Masajes,6370,MLA409431,Salud y Equipamiento Médico
+356,MLA435066,Movilidad,6442,MLA409431,Salud y Equipamiento Médico
+357,MLA401562,Ortopedia,12798,MLA409431,Salud y Equipamiento Médico
+358,MLA8830,Suplementos Alimenticios,26188,MLA409431,Salud y Equipamiento Médico
+359,MLA43719,Terapias Alternativas,20622,MLA409431,Salud y Equipamiento Médico
+360,MLA409463,Otros,2513,MLA409431,Salud y Equipamiento Médico
+361,MLA414050,Asesoramiento Contable y Legal,705,MLA1540,Servicios
+362,MLA10514,Belleza y Cuidado Personal,1183,MLA1540,Servicios
+363,MLA414051,Comunicación y diseño,527,MLA1540,Servicios
+364,MLA43986,Cursos y Clases,1533,MLA1540,Servicios
+365,MLA91058,Delivery,232,MLA1540,Servicios
+366,MLA1550,Fiestas y Eventos,1960,MLA1540,Servicios
+367,MLA122264,"Fotografía, Música y Cine",311,MLA1540,Servicios
+368,MLA122258,Hogar y Construcción,6043,MLA1540,Servicios
+369,MLA56666,Imprenta,228,MLA1540,Servicios
+370,MLA9007,Mantenimiento de Vehículos,979,MLA1540,Servicios
+371,MLA111029,Medicina y Salud,773,MLA1540,Servicios
+372,MLA91088,Ropa y Moda,188,MLA1540,Servicios
+373,MLA11798,Servicios para Mascotas,925,MLA1540,Servicios
+374,MLA91083,Servicios para Oficinas,177,MLA1540,Servicios
+375,MLA122201,Tecnología,1584,MLA1540,Servicios
+376,MLA9038,Transporte,1956,MLA1540,Servicios
+377,MLA1229,Viajes y Turismo,465,MLA1540,Servicios
+378,MLA1898,Otros Servicios,3150,MLA1540,Servicios
+379,MLA24673,Cotillón,25499,MLA9304,"Souvenirs, Cotillón y Fiestas"
+380,MLA403648,Decoración para Fiestas,57149,MLA9304,"Souvenirs, Cotillón y Fiestas"
+381,MLA413646,Descartables para Fiestas,6354,MLA9304,"Souvenirs, Cotillón y Fiestas"
+382,MLA24790,Disfraces,27290,MLA9304,"Souvenirs, Cotillón y Fiestas"
+383,MLA435284,"Espuma, Serpentina y Confeti",940,MLA9304,"Souvenirs, Cotillón y Fiestas"
+384,MLA412184,Invitaciones y Tarjetas,4941,MLA9304,"Souvenirs, Cotillón y Fiestas"
+385,MLA100778,Kits Imprimibles para Fiestas,46322,MLA9304,"Souvenirs, Cotillón y Fiestas"
+386,MLA412009,Props para Photo Booths,339,MLA9304,"Souvenirs, Cotillón y Fiestas"
+387,MLA10056,Souvenirs,102492,MLA9304,"Souvenirs, Cotillón y Fiestas"
+388,MLA24693,Otros,5011,MLA9304,"Souvenirs, Cotillón y Fiestas"
+389,MLA2818,Adultos,45082,MLA1953,Otras categorías
+390,MLA2335,Artículos para Fumadores,24573,MLA1953,Otras categorías
+391,MLA406028,Coberturas Extendidas,390,MLA1953,Otras categorías
+392,MLA417785,Criptomonedas,462,MLA1953,Otras categorías
+393,MLA1740,Esoterismo,28139,MLA1953,Otras categorías
+394,MLA401316,Gift Cards,1204,MLA1953,Otras categorías
+395,MLA432903,Hornos Crematorios,6,MLA1953,Otras categorías
+396,MLA73672,Insumos para Tatuajes,4345,MLA1953,Otras categorías
+397,MLA433536,Kits de Criminalística,45,MLA1953,Otras categorías
+398,MLA433022,Licencias para Taxis,48,MLA1953,Otras categorías
+399,MLA413190,Mangas de Viento,93,MLA1953,Otras categorías
+400,MLA421364,Pirotecnia,1183,MLA1953,Otras categorías
+401,MLA3530,Otros,169853,MLA1953,Otras categorías
