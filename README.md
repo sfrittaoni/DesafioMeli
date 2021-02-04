@@ -2,7 +2,7 @@
 
 En este repositorio se encuentran los notebooks creados para resolver el Desafío de Mercado Libre
 
-DatasetEn en este se realiza la generación del dataset a partir de las consultas de las apis
+1. [En este notebook](https://github.com/sfrittaoni/DesafioMeli/blob/main/DesafioML%20Dataset_FeatureEngineering.ipynb) se realiza la generación del dataset a partir de las consultas de las APIs de Mercado Libre y la posterior tarea de feature engineering
 
 ADE en este se lleva a cabo un análsis exploratorio centrado en los articulos con descuento
 
